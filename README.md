@@ -9,6 +9,7 @@ and how many sheets to make
 Written to avoid using online sprite stitchers, since they usually provide limited control over dimensions and ouputs.
 
 #FEATURES:
+- convert entire contents of directory into clean sprite sheets
 - define number of rows per sheet
 - define number of columns per sheet
 - define number of output files for input sprite set
